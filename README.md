@@ -111,17 +111,6 @@ The notebook generates a 3-panel figure:
 
 ---
 
-## 📦 Deliverables
-
-| File | Description |
-|------|-------------|
-| [`AI_ML_Task2_Model_Comparison.ipynb`](AI_ML_Task2_Model_Comparison.ipynb) | Complete Jupyter Notebook (34 cells, 18 code + 16 markdown) |
-| [`AI_ML_Task2_Report.md`](AI_ML_Task2_Report.md) | 3-section report (Methodology, Results, Conclusions) |
-| [`run_pipeline.py`](run_pipeline.py) | Standalone Python script (no Jupyter required) |
-| [`README.md`](README.md) | You're reading it! |
-
----
-
 ## 🚀 Getting Started
 
 ### Prerequisites
@@ -165,6 +154,3 @@ pandoc AI_ML_Task2_Report.md -o AI_ML_Task2_Report.pdf --pdf-engine=pdflatex
 
 ---
 
-## 📄 License
-
-This project is for educational purposes as part of an AI/ML internship assignment.
